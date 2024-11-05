@@ -1,0 +1,67 @@
+<div class="container-fluid">
+    <div class="main p-2  mt-5" style="width: 900px;">
+        <div class="text-center mb-5">
+            <button class="btn btn-primary" onclick="mostrarSeccion('dashboard')">Turnos de Clientes</button>
+            <button class="btn btn-secondary" onclick="mostrarSeccion('tablaTurnos')">Ver Turnos</button>
+            <button class="btn btn-success" onclick="mostrarSeccion('formularioTurno')">Nuevo Turno</button>
+        </div>
+        <section id="dashboard" class="seccion">
+            <h4>Total de Turnos por Cliente</h4>
+            <table class="table table-bordered table-hover mt-3">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Cliente</th>
+                        <th>Total de Turnos</th>
+                    </tr>
+                </thead>
+                <tbody id="clientes">
+                </tbody>
+            </table>
+        </section>
+
+        <section id="tablaTurnos" class="seccion" style="display: none;">
+            <h4>Listado de Turnos</h4>
+            <table class="table table-bordered table-hover mt-4">
+                <thead>
+                    <tr>
+                        <th>Servicio</th>
+                        <th>Cliente</th>
+                        <th>Fecha</th>
+                        <th>Hora</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody id="turnos">
+                </tbody>
+            </table>
+        </section>
+
+        <section id="formularioTurno" class="seccion" style="display: none;">
+            <h4>Agregar Nuevo Turno</h4>
+            <form id="nuevoTurnoForm">
+                <div class="mb-3">
+                    <label for="servicio" class="form-label">Servicio:</label>
+                    <select id="servicio" class="form-select">
+                        
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="cliente" class="form-label">Cliente:</label>
+                    <input type="text" id="cliente" class="form-select">
+                </div>
+                <div class="mb-3">
+                    <label for="fecha" class="form-label">Fecha:</label>
+                    <input type="date" id="fecha" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label for="hora" class="form-label">Hora:</label>
+                    <input type="time" id="hora" class="form-control">
+                </div>
+                <button type="button" class="btn btn-primary" onclick="agregarTurno()">Agregar Turno</button>
+            </form>
+        </section>
+        </div> 
+    </div>
+</div>
+<script src="/js/index.js"></script>

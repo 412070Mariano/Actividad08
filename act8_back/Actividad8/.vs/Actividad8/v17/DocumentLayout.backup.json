@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\data\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\data\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\data\\turnos_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\data\\turnos_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\data\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\data\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\data\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\data\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\services\\serviceservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\services\\serviceservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\data\\repositories\\repositoryturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\data\\repositories\\repositoryturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\services\\serviceturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\services\\serviceturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\services\\iserviceturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\services\\iserviceturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\services\\iserviceservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\services\\iserviceservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\negocio\\data\\repositories\\repositoryservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:negocio\\data\\repositories\\repositoryservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|c:\\users\\usurio\\source\\repos\\act8_back\\actividad8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F93E858-1292-45DE-9BC6-45DEDA981A17}|Actividad8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turnos_context.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\Turnos_context.cs",
+              "RelativeDocumentMoniker": "Negocio\\Data\\Turnos_context.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\Turnos_context.cs",
+              "RelativeToolTip": "Negocio\\Data\\Turnos_context.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwFgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:40:08.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceServicio.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Services\\ServiceServicio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Services\\ServiceServicio.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Services\\ServiceServicio.cs",
+              "RelativeToolTip": "Negocio\\Services\\ServiceServicio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:42:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceServicio.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Services\\IServiceServicio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Services\\IServiceServicio.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Services\\IServiceServicio.cs",
+              "RelativeToolTip": "Negocio\\Services\\IServiceServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:43:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryServicio.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\Repositories\\RepositoryServicio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Data\\Repositories\\RepositoryServicio.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\Repositories\\RepositoryServicio.cs",
+              "RelativeToolTip": "Negocio\\Data\\Repositories\\RepositoryServicio.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:43:54.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "Controllers\\ServicioController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:56:51.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T23:55:00.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:12:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServiceTurno.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Services\\IServiceTurno.cs",
+              "RelativeDocumentMoniker": "Negocio\\Services\\IServiceTurno.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Services\\IServiceTurno.cs",
+              "RelativeToolTip": "Negocio\\Services\\IServiceTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:26:27.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceTurno.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Services\\ServiceTurno.cs",
+              "RelativeDocumentMoniker": "Negocio\\Services\\ServiceTurno.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Services\\ServiceTurno.cs",
+              "RelativeToolTip": "Negocio\\Services\\ServiceTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:26:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "Controllers\\TurnoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:37:42.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryTurno.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\Repositories\\RepositoryTurno.cs",
+              "RelativeDocumentMoniker": "Negocio\\Data\\Repositories\\RepositoryTurno.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\Repositories\\RepositoryTurno.cs",
+              "RelativeToolTip": "Negocio\\Data\\Repositories\\RepositoryTurno.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:53:08.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TServicio.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\TServicio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Data\\TServicio.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\TServicio.cs",
+              "RelativeToolTip": "Negocio\\Data\\TServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:17:53.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TTurno.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\TTurno.cs",
+              "RelativeDocumentMoniker": "Negocio\\Data\\TTurno.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\TTurno.cs",
+              "RelativeToolTip": "Negocio\\Data\\TTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:18:21.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TDetallesTurno.cs",
+              "DocumentMoniker": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\TDetallesTurno.cs",
+              "RelativeDocumentMoniker": "Negocio\\Data\\TDetallesTurno.cs",
+              "ToolTip": "C:\\Users\\USURIO\\source\\repos\\act8_back\\Actividad8\\Negocio\\Data\\TDetallesTurno.cs",
+              "RelativeToolTip": "Negocio\\Data\\TDetallesTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:18:35.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+body{
+    background-color: #969393;
+}
+
+.barra {
+    background-color: #20262b;
+    padding: 10px;
+    
+}
+
+.boton-menu {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color:  #20262b;
+    color: #b9b6b6;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.contenido {
+    padding: 20px;
+    font-weight: bold;
+    transition: margin-left 0.3s; 
+    color: #000;
+}
+.sidebar {
+    position: fixed;
+    left: -350px;
+    top: 0;
+    height: 100%;
+    width: 350px;
+    background-color: #20262b;
+    color: #f0f0f0;
+    padding: 20px;
+    transition: left 0.3s ease;
+}
+
+.sidebar.active {
+    left: 0; 
+}
+
+.sidebar h2 {
+    color: #FFFF;
+    font-weight: bold;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 15px 0;
+}
+
+.sidebar a {
+    color: #b9b6b6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sidebar a:hover {
+    color: #eeff00; 
+}
+
+.cerrar-btn {
+    cursor: pointer;
+    font-size: 24px;
+    text-align: right;
+    color: #b9b6b6;
+}
+
+/* Mueve el contenido a la derecha cuando el menú está activo */
+.sidebar.active + .contenido {
+    margin-left: 250px; 
+}
+
+.user-info {
+    text-align: center;
+    color: #b9b6b6;
+    font-weight: bold;
+}
+.user{
+    width: 50px;
+}
+
+
+
+/* BOTONES LOGIN/REGISTER */
+.login-register {
+    display: flex; 
+    align-items: center; 
+    margin-top: 10px; 
+}
+
+.login, .register {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.login {
+    border: 2px solid #FFD700; 
+    width: 120px;
+}
+
+.register {
+    border: 2px solid #FFD700;
+    width: 110px;
+}
+
+.separador {
+    color: #FFD700; 
+    top: 10px
+}
+
+footer a{
+    text-decoration: none;
+    color: black;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #20262b;
+    color: black;
+    padding: 10px 0;    
+    font-size: 18px;
+    font-weight: bold;
+}
